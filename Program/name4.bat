@@ -2,5 +2,6 @@
 TITLE Myname
 echo My name is MNH.
 echo weather is nice
-echo you should go for walk
+echo weather is sunny
+echo this is weather forecast
 PAUSE
